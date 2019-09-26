@@ -26,6 +26,7 @@ satisfy:
   deb: python-pyqtgraph
   rpm: python-pyqtgraph || python2-pyqtgraph
   port: py27-pyqtgraph
+  pip: pyqtgraph
   python: pyqtgraph
 satisfy@python3:
   deb: python3-pyqtgraph

@@ -25,6 +25,7 @@ satisfy:
   deb: python-click-plugins
   rpm: python-click-plugins || python2-click-plugins
   port: py27-click-plugins
+  pip: click-plugins
 satisfy@python3:
   deb: python3-click-plugins
   rpm: python3-click-plugins
